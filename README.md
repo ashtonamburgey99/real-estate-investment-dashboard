@@ -6,5 +6,7 @@ Custom profitability scoring model that ranks investment areas based on weighted
 Heatmap visualization where darker colors indicate higher-scoring, more profitable investment zones
 Dynamic filtering allowing the client to explore data by area, price range, and profitability tier
 
+[View Dashboard PDF](./Real%20Estate%20Dynamic%20Data%20Load.pdf)
+
 Tools Used: Microsoft PowerBI, DAX, Power Query
 Purpose: To give a real estate agent a data-driven, visual tool for making faster and more confident investment decisions.
