@@ -9,4 +9,5 @@ Built for a real estate agent client, this interactive PowerBI dashboard helps i
 [View Dashboard PDF](./Real%20Estate%20Dynamic%20Data%20Load.pdf)
 
 Tools Used: Microsoft PowerBI, DAX, Power Query
+
 Purpose: To give a real estate agent a data-driven, visual tool for making faster and more confident investment decisions.
